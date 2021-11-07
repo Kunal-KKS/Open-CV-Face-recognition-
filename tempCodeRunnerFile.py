@@ -1,0 +1,1 @@
+hara_caascade= cv.CascadeClassifier("hara_face.xml")
